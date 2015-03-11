@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Konwerter
+_Comment=Konwerter application
+Categories=GNOME;Utility;
+Exec=konwerter
+Icon=konwerter
+Terminal=false
+Type=Application

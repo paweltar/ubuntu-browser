@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-11 23:38+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Code for other initialization actions should be added here.
+#: ../data/ui/KonwerterWindow.ui.h:1 ../konwerter.desktop.in.h:1
+msgid "Konwerter"
+msgstr ""
+
+#: ../data/ui/KonwerterWindow.ui.h:2
+msgid "_File"
+msgstr ""
+
+#: ../data/ui/KonwerterWindow.ui.h:3
+msgid "_Edit"
+msgstr ""
+
+#: ../data/ui/KonwerterWindow.ui.h:4
+msgid "_View"
+msgstr ""
+
+#: ../data/ui/KonwerterWindow.ui.h:5
+msgid "_Help"
+msgstr ""
+
+#: ../data/ui/KonwerterWindow.ui.h:6
+msgid "Contents"
+msgstr ""
+
+#: ../data/ui/KonwerterWindow.ui.h:7
+msgid "Odśwież stronę"
+msgstr ""
+
+#: ../data/ui/KonwerterWindow.ui.h:8
+msgid "Odśwież"
+msgstr ""
+
+#: ../data/ui/KonwerterWindow.ui.h:9
+msgid "http://"
+msgstr ""
+
+#: ../data/ui/KonwerterWindow.ui.h:10
+msgid "Status Area"
+msgstr ""
+
+#: ../data/ui/PreferencesKonwerterDialog.ui.h:1
+msgid "Konwerter Preferences"
+msgstr ""
+
+#: ../data/ui/PreferencesKonwerterDialog.ui.h:2
+msgid "_Example entry:"
+msgstr ""
+
+#: ../konwerter/__init__.py:21
+msgid "Show debug messages (-vv debugs konwerter_lib also)"
+msgstr ""
+
+#: ../konwerter.desktop.in.h:2
+msgid "Konwerter application"
+msgstr ""
